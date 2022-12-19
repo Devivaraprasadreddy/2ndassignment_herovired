@@ -27,7 +27,7 @@ user4=int(input("Enter A Number 4 : "))
 
 user5=int(input("Enter A Number 5 : "))
 
-if(user1<=0 or user2<=0 or user33<=0 or user4<=0 or user5<=0):
+if(user1<=0 or user2<=0 or user3<=0 or user4<=0 or user5<=0):
 
     print("Please Enter A positive Number!")
 
